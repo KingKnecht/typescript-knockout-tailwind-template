@@ -46,5 +46,6 @@ module.exports = {
     static: [
       'public',
     ]
-  }
+  },
+  devtool : "source-map"
 }
