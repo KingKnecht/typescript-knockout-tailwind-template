@@ -2,6 +2,6 @@
 
 Trying to setup some stuff I like to re-use.
 
-Start:
+`yarn install`
 
 `yarn run serve`
